@@ -13,5 +13,6 @@
     <p> add conflict from cloned</p>
     <p> add conflict from cloned2</p>
     <p> add conflict from original</p>
+    <p> add conflict from original2</p>
 </body>
 </html>

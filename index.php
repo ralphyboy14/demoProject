@@ -12,5 +12,6 @@
     <p1> Hello world</p1>
     <p> add conflict from cloned</p>
     <p> add conflict from cloned2</p>
+    <p> add conflict from original</p>
 </body>
 </html>

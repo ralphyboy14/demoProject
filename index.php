@@ -10,6 +10,6 @@
     <p1> Hello world</p1>
     <h1>   Hello world </h1>
     <p1> Hello world</p1>
-    <p>add conflict from main</p>
+    <p> add conflict from cloned</p>
 </body>
 </html>

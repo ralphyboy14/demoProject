@@ -5,8 +5,8 @@ $num2 = readline("Enter the second number: ");
 
 $sum = $num1 + $num2;
 echo "The sum of $num1 and $num2 is: $sum\n";
-
-
+ // this is a feature branch
+echo "This is a main branch.";
 ?>
 <!DOCTYPE html>
 <html lang="en">
